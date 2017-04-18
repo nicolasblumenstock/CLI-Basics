@@ -1,0 +1,4 @@
+locate
+	use locate to find files using elements of filenames
+
+		locate -i *red*house**city*
